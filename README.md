@@ -30,4 +30,4 @@ Know Matter is a double authentication application, meaning a user can sign in e
 
 
 ### Collaborator:
-[@ekatsuta](https://github.com/ekatsuta)
+[@menstiler](https://github.com/menstiler)
