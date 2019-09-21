@@ -9,6 +9,12 @@
 ### Goal
 Building an application where students can find tutors of various hobbies, and teachers can post their hobbies to recruit students. As students of Flatiron School, we came to value the one-on-one teaching sessions with our instructors. There are various applications to find group lessons nearby, but we wanted to build something specifically for individual tutoring sessions. 
 
+### Instructions
+
+1. run `rails s`
+2. if using an older version of Ruby, run `rvm list` to list all installed rubies 
+3. run `rvm use ruby-(version number)` to use most updated version
+
 ### Functions 
 Know Matter is a double authentication application, meaning a user can sign in either as a student or a teacher. The authentication will permit or deny access to certain actions and URL's based on the user's session type. 
 * As a **student**, you can either _login_ (with authenticated username & password) or _signup_, _browse_ different hobbies, browse teachers, _book_ and _request_ to cancel lessons, and see all your _existing lessons_. 
