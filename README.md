@@ -11,9 +11,10 @@ Building an application where students can find tutors of various hobbies, and t
 
 ### Instructions
 
-1. run `rails s`
-2. if using an older version of Ruby, run `rvm list` to list all installed rubies 
-3. run `rvm use ruby-(version number)` to use most updated version
+1. `bundle install`
+2. run `rails s`
+3. if using an older version of Ruby, run `rvm list` to list all installed rubies 
+4. run `rvm use ruby-(version number)` to use most updated version
 
 ### Functions 
 Know Matter is a double authentication application, meaning a user can sign in either as a student or a teacher. The authentication will permit or deny access to certain actions and URL's based on the user's session type. 
